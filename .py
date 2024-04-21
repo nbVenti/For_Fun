@@ -5,4 +5,3 @@ while crazy:
     if input("Are you crazy? ") == "no":
         crazy = False
     
-    
